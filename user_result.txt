@@ -17,9 +17,11 @@ CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8
 CCTV-16,http://bl.dchwtq.asia:10000/rtp/239.69.1.247:11124
+CCTV-16,http://124.231.214.241:9999udp://@228.1.1.110:6110
 CCTV-16,http://124.231.214.29:9999udp://@228.1.1.110:6110
 CCTV-17,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8
 CCTV-17,http://bl.dchwtq.asia:10000/rtp/239.69.1.152:10548
+CCTV-17,http://124.231.214.241:9999udp://@228.1.1.7:6007
 CCTV-17,http://124.231.214.29:9999udp://@228.1.1.7:6007
 
 港·澳·台,#genre#
@@ -31,6 +33,7 @@ CCTV-17,http://124.231.214.29:9999udp://@228.1.1.7:6007
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 广西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001224/index.m3u8
 广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
-广西卫视,http://106.55.164.46:9901http://192.168.0.8/newlive/live/hls/36/live.m3u8
 广西卫视,http://124.231.214.29:9999udp://@228.1.1.57:6057
+广西卫视,http://124.231.214.241:9999udp://@228.1.1.57:6057
+广西卫视,http://106.55.164.46:9901http://192.168.0.8/newlive/live/hls/36/live.m3u8
 
