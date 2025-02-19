@@ -13,6 +13,7 @@ CCTV-10,http://bl.dchwtq.asia:10000/rtp/239.69.1.105:10268
 CCTV-11,http://bl.dchwtq.asia:10000/rtp/239.69.1.154:10560
 CCTV-12,http://bl.dchwtq.asia:10000/rtp/239.69.1.106:10274
 CCTV-13,http://bl.dchwtq.asia:10000/rtp/239.254.96.161:9040
+CCTV-13,http://116.55.176.206:9901http://media.hndyjyfw.gov.cn/live/cctv-13/live.m3u8
 CCTV-14,http://bl.dchwtq.asia:10000/rtp/239.69.1.107:10280
 CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 CCTV-16,http://bl.dchwtq.asia:10000/rtp/239.69.1.247:11124
